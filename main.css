@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border: darkred 1px solid;
+    font-size: 14px;
+    color: darkslategray;
+}
+
+h1 {
+background: black;
+color: white;
+}
